@@ -1,6 +1,3 @@
-# Payment-date-prediction
-
-
 
 # Payment Date Prediction ML Project
 
