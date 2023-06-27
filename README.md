@@ -3,7 +3,10 @@
 
  The goal of this project is to predict the payment date based on the given dataset. The project is implemented in the `HRC30094W_AMIT_PATNAIK_prediction.ipynb` Jupyter Notebook.
 
- <img width="1419" alt="Screenshot 2023-06-27 at 4 13 32 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/308cd0c5-2448-4f54-a0ec-3f8008875bdd">
+ # Accuracy of model
+<img width="1031" alt="Screenshot 2023-06-27 at 5 06 33 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/eb8bbb4e-ddd2-4bba-8325-3da9bd0f560b">
+
+
 
 ## Table of Contents
 
@@ -33,6 +36,9 @@
 
 
 
+ <img width="1419" alt="Screenshot 2023-06-27 at 4 13 32 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/308cd0c5-2448-4f54-a0ec-3f8008875bdd">
+
+
 
 
 
@@ -43,7 +49,7 @@
 <img width="910" alt="Screenshot 2023-06-27 at 4 14 55 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/b8796040-2c0f-49aa-91a9-72b01f20950e">
 
 
-<img width="899" alt="Screenshot 2023-06-27 at 4 17 30 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/91aee702-dfb4-4d52-b13f-56f87de14f0c">
+
 
 ### Importing related Libraries<a name="importing-related-libraries"></a>
 
