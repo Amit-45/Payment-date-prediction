@@ -3,6 +3,8 @@
 
  The goal of this project is to predict the payment date based on the given dataset. The project is implemented in the `HRC30094W_AMIT_PATNAIK_prediction.ipynb` Jupyter Notebook.
 
+ <img width="1419" alt="Screenshot 2023-06-27 at 4 13 32 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/308cd0c5-2448-4f54-a0ec-3f8008875bdd">
+
 ## Table of Contents
 
 - [Importing related Libraries](#importing-related-libraries)
@@ -34,7 +36,7 @@
 
 
 
-<img width="1419" alt="Screenshot 2023-06-27 at 4 13 32 PM" src="https://github.com/Amit-45/Payment-date-prediction/assets/77204104/308cd0c5-2448-4f54-a0ec-3f8008875bdd">
+
 
 
 
