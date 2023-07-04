@@ -1,5 +1,5 @@
 
-# Payment Date Prediction ML Project
+# Payment Date Prediction  
 
  The goal of this project is to predict the payment date based on the given dataset. The project is implemented in the `HRC30094W_AMIT_PATNAIK_prediction.ipynb` Jupyter Notebook.
 
